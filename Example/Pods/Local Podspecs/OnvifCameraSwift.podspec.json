@@ -1,0 +1,22 @@
+{
+  "name": "OnvifCameraSwift",
+  "version": "0.1.0",
+  "summary": "A short description of OnvifCameraSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/imobile2/OnvifCameraSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "imobile2": "imobile2@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/imobile2/OnvifCameraSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "OnvifCameraSwift/Classes/**/*"
+}

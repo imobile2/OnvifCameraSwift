@@ -1,6 +1,6 @@
 # OnvifCameraSwift
 
-[![CI Status](https://img.shields.io/travis/allenkfan/OnvifCameraSwift.svg?style=flat)](https://travis-ci.org/allenkfan/OnvifCameraSwift)
+[![CI Status](https://img.shields.io/travis/imobile2/OnvifCameraSwift.svg?style=flat)](https://travis-ci.org/imobile2/OnvifCameraSwift)
 [![Version](https://img.shields.io/cocoapods/v/OnvifCameraSwift.svg?style=flat)](https://cocoapods.org/pods/OnvifCameraSwift)
 [![License](https://img.shields.io/cocoapods/l/OnvifCameraSwift.svg?style=flat)](https://cocoapods.org/pods/OnvifCameraSwift)
 [![Platform](https://img.shields.io/cocoapods/p/OnvifCameraSwift.svg?style=flat)](https://cocoapods.org/pods/OnvifCameraSwift)
@@ -22,7 +22,7 @@ pod 'OnvifCameraSwift'
 
 ## Author
 
-allenkfan, imobile2@gmail.com
+imobile2, imobile2@gmail.com
 
 ## License
 

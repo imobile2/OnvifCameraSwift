@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  OnvifCameraSwift
 //
-//  Created by allenkfan on 02/21/2021.
-//  Copyright (c) 2021 allenkfan. All rights reserved.
+//  Created by imobile2 on 02/21/2021.
+//  Copyright (c) 2021 imobile2. All rights reserved.
 //
 
 import UIKit
